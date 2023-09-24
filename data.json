@@ -1,0 +1,492 @@
+[
+  {
+    "id": "91011",
+    "title": "Learn to Budget",
+    "url": "https://letmegooglethat.com/?q=Learn%20to%20Budget",
+    "description": "A playlist to learn budgeting",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "151617",
+    "title": "10 Ways to Save Money",
+    "url": "https://letmegooglethat.com/?q=10%20Ways%20to%20Save%20Money",
+    "description": "Tips to spend less and save more",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "5678",
+    "title": "Money Tips",
+    "url": "https://letmegooglethat.com/?q=Money%20Tips",
+    "description": "5 tips for saving money",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "121314",
+    "title": "Personal Finance Basics",
+    "url": "https://letmegooglethat.com/?q=Personal%20Finance%20Basics",
+    "description": "Essential personal finance concepts",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "181920",
+    "title": "Guide to Investing as a Beginner",
+    "url": "https://letmegooglethat.com/?q=Guide%20to%20Investing%20as%20a%20Beginner",
+    "description": "Getting started with investing made easy",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "2122",
+    "title": "Budgeting for Beginners",
+    "url": "https://letmegooglethat.com/?q=Budgeting%20for%20Beginners",
+    "description": "Tips for creating your first budget",
+    "category": "VIDEOS"
+  },
+  {  
+    "id": "2324",
+    "title": "401k Basics",
+    "url": "https://letmegooglethat.com/?q=401k%20Basics",
+    "description": "What is a 401k and how does it work?",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "2526",
+    "title": "Building an Emergency Fund",
+    "url": "https://letmegooglethat.com/?q=Building%20an%20Emergency%20Fund",
+    "description": "Learn how to start saving for emergencies",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "2728",
+    "title": "Using Coupons Effectively",
+    "url": "https://letmegooglethat.com/?q=Using%20Coupons%20Effectively",
+    "description": "Tips for getting the most value from coupons",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "2930",
+    "title": "Minimizing Debt",
+    "url": "https://letmegooglethat.com/?q=Minimizing%20Debt",
+    "description": "Strategies for paying down debt quickly",
+    "category": "BLOG_POSTS" 
+  },
+  {
+    "id": "3132",
+    "title": "Understanding Credit Scores",
+    "url": "https://letmegooglethat.com/?q=Understanding%20Credit%20Scores",
+    "description": "The basics of credit scores and their impact",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "3334",
+    "title": "Intro to Cryptocurrency",
+    "url": "https://letmegooglethat.com/?q=Intro%20to%20Cryptocurrency",
+    "description": "A beginner's guide to digital currencies",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "3536",
+    "title": "Basics of Taxes",
+    "url": "https://letmegooglethat.com/?q=Basics%20of%20Taxes",
+    "description": "Understanding the fundamental concepts of taxes",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "3738",
+    "title": "Home Loans 101",
+    "url": "https://letmegooglethat.com/?q=Home%20Loans%20101",
+    "description": "All you need to know about home loans",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "3940",
+    "title": "Traveling on a Budget",
+    "url": "https://letmegooglethat.com/?q=Traveling%20on%20a%20Budget",
+    "description": "Tips to save money while traveling",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "4142",
+    "title": "Retirement Planning",
+    "url": "https://letmegooglethat.com/?q=Retirement%20Planning",
+    "description": "Steps to plan for a comfortable retirement",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "4344",
+    "title": "Saving for College",
+    "url": "https://letmegooglethat.com/?q=Saving%20for%20College",
+    "description": "Strategies for setting aside money for higher education",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "4546",
+    "title": "Creating a Monthly Budget",
+    "url": "https://letmegooglethat.com/?q=Creating%20a%20Monthly%20Budget",
+    "description": "How to allocate finances and stick to a budget",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "4748",
+    "title": "Renting vs. Buying a Home",
+    "url": "https://letmegooglethat.com/?q=Renting%20vs.%20Buying%20a%20Home",
+    "description": "The pros and cons of renting and home ownership",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "4950",
+    "title": "Frugal Living Tips",
+    "url": "https://letmegooglethat.com/?q=Frugal%20Living%20Tips",
+    "description": "Ways to live well while spending less",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "5152",
+    "title": "Investing in Stocks for Beginners",
+    "url": "https://letmegooglethat.com/?q=Investing%20in%20Stocks%20for%20Beginners",
+    "description": "A foundational guide to entering the stock market",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "5354",
+    "title": "Understanding Mutual Funds",
+    "url": "https://letmegooglethat.com/?q=Understanding%20Mutual%20Funds",
+    "description": "Dive into the world of mutual fund investments",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "5556",
+    "title": "Setting Financial Goals",
+    "url": "https://letmegooglethat.com/?q=Setting%20Financial%20Goals",
+    "description": "The importance of having clear financial objectives",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "5758",
+    "title": "Understanding Health Insurance",
+    "url": "https://letmegooglethat.com/?q=Understanding%20Health%20Insurance",
+    "description": "Navigate the complexities of health coverage",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "5960",
+    "title": "Starting a Side Hustle",
+    "url": "https://letmegooglethat.com/?q=Starting%20a%20Side%20Hustle",
+    "description": "Turning your passion into profit",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "6162",
+    "title": "Estate Planning Basics",
+    "url": "https://letmegooglethat.com/?q=Estate%20Planning%20Basics",
+    "description": "Planning for the future of your assets",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "6364",
+    "title": "Buying Your First Car",
+    "url": "https://letmegooglethat.com/?q=Buying%20Your%20First%20Car",
+    "description": "Tips for making a wise vehicle purchase",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "6566",
+    "title": "The Basics of Loan Repayment",
+    "url": "https://letmegooglethat.com/?q=The%20Basics%20of%20Loan%20Repayment",
+    "description": "Managing and repaying borrowed money efficiently",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "6768",
+    "title": "Managing Credit Card Debt",
+    "url": "https://letmegooglethat.com/?q=Managing%20Credit%20Card%20Debt",
+    "description": "Steps to reduce and eliminate credit card liabilities",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "6970",
+    "title": "Building Wealth Over Time",
+    "url": "https://letmegooglethat.com/?q=Building%20Wealth%20Over%20Time",
+    "description": "Principles of accumulating wealth gradually",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "7172",
+    "title": "The Power of Compound Interest",
+    "url": "https://letmegooglethat.com/?q=The%20Power%20of%20Compound%20Interest",
+    "description": "How compound interest can grow your investments over time",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "7374",
+    "title": "Real Estate Investment Basics",
+    "url": "https://letmegooglethat.com/?q=Real%20Estate%20Investment%20Basics",
+    "description": "Entering the world of real estate investment",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "7576",
+    "title": "How to Improve Your Credit Score",
+    "url": "https://letmegooglethat.com/?q=How%20to%20Improve%20Your%20Credit%20Score",
+    "description": "Steps to boost your creditworthiness",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "7778",
+    "title": "Understanding Roth IRAs",
+    "url": "https://letmegooglethat.com/?q=Understanding%20Roth%20IRAs",
+    "description": "Benefits of a Roth IRA retirement account",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "7980",
+    "title": "Building a Financial Safety Net",
+    "url": "https://letmegooglethat.com/?q=Building%20a%20Financial%20Safety%20Net",
+    "description": "The importance of having financial backup",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "8182",
+    "title": "Navigating the World of ETFs",
+    "url": "https://letmegooglethat.com/?q=Navigating%20the%20World%20of%20ETFs",
+    "description": "A closer look at Exchange Traded Funds",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "8384",
+    "title": "Financial Planning for Newlyweds",
+    "url": "https://letmegooglethat.com/?q=Financial%20Planning%20for%20Newlyweds",
+    "description": "Money matters for the newly married",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "8586",
+    "title": "Introduction to Bonds",
+    "url": "https://letmegooglethat.com/?q=Introduction%20to%20Bonds",
+    "description": "The basics of bond investments",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "8788",
+    "title": "Automating Your Finances",
+    "url": "https://letmegooglethat.com/?q=Automating%20Your%20Finances",
+    "description": "The convenience of financial automation",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "8990",
+    "title": "Choosing the Right Insurance Plan",
+    "url": "https://letmegooglethat.com/?q=Choosing%20the%20Right%20Insurance%20Plan",
+    "description": "Factors to consider when selecting insurance",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "9192",
+    "title": "Understanding Dividends",
+    "url": "https://letmegooglethat.com/?q=Understanding%20Dividends",
+    "description": "The ins and outs of dividend payments from investments",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "9394",
+    "title": "Financial Independence, Retire Early (FIRE)",
+    "url": "https://letmegooglethat.com/?q=Financial%20Independence%20Retire%20Early",
+    "description": "The FIRE movement and its financial principles",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "9596",
+    "title": "Basics of Forex Trading",
+    "url": "https://letmegooglethat.com/?q=Basics%20of%20Forex%20Trading",
+    "description": "Entering the global currency trading market",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "9798",
+    "title": "Balancing Needs vs Wants",
+    "url": "https://letmegooglethat.com/?q=Balancing%20Needs%20vs%20Wants",
+    "description": "Differentiating between necessities and desires in budgeting",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "999100",
+    "title": "Diversifying Your Investment Portfolio",
+    "url": "https://letmegooglethat.com/?q=Diversifying%20Your%20Investment%20Portfolio",
+    "description": "The importance of asset allocation and diversification",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "101102",
+    "title": "Charitable Giving and Finance",
+    "url": "https://letmegooglethat.com/?q=Charitable%20Giving%20and%20Finance",
+    "description": "How to incorporate charity into your financial plans",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "103104",
+    "title": "Understanding Peer-to-Peer Lending",
+    "url": "https://letmegooglethat.com/?q=Understanding%20Peer-to-Peer%20Lending",
+    "description": "The rise of P2P lending platforms and how they work",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "105106",
+    "title": "Inflation and Your Money",
+    "url": "https://letmegooglethat.com/?q=Inflation%20and%20Your%20Money",
+    "description": "The impact of inflation on purchasing power",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "107108",
+    "title": "Introduction to Annuities",
+    "url": "https://letmegooglethat.com/?q=Introduction%20to%20Annuities",
+    "description": "Understanding the benefits and risks of annuities",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "109110",
+    "title": "Importance of Financial Literacy",
+    "url": "https://letmegooglethat.com/?q=Importance%20of%20Financial%20Literacy",
+    "description": "Empowering individuals through financial education",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "111112",
+    "title": "Navigating Student Loans",
+    "url": "https://letmegooglethat.com/?q=Navigating%20Student%20Loans",
+    "description": "A guide to understanding and managing student loans.",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "113114",
+    "title": "Green Investing",
+    "url": "https://letmegooglethat.com/?q=Green%20Investing",
+    "description": "Investing in environmentally-friendly assets.",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "115116",
+    "title": "Real Estate for Beginners",
+    "url": "https://letmegooglethat.com/?q=Real%20Estate%20for%20Beginners",
+    "description": "Starting out in the real estate market.",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "117118",
+    "title": "Crypto Security Tips",
+    "url": "https://letmegooglethat.com/?q=Crypto%20Security%20Tips",
+    "description": "Keeping your digital assets safe.",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "119120",
+    "title": "Child Education Fund Planning",
+    "url": "https://letmegooglethat.com/?q=Child%20Education%20Fund%20Planning",
+    "description": "Setting up funds for your child's education.",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "121122",
+    "title": "Understanding Financial Markets",
+    "url": "https://letmegooglethat.com/?q=Understanding%20Financial%20Markets",
+    "description": "A primer on global financial markets.",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "123124",
+    "title": "Debt Consolidation Explained",
+    "url": "https://letmegooglethat.com/?q=Debt%20Consolidation%20Explained",
+    "description": "Merging multiple debts into a single manageable loan.",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "125126",
+    "title": "Benefits of Cashless Transactions",
+    "url": "https://letmegooglethat.com/?q=Benefits%20of%20Cashless%20Transactions",
+    "description": "Advantages of moving to digital payments.",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "127128",
+    "title": "Mortgage Refinancing 101",
+    "url": "https://letmegooglethat.com/?q=Mortgage%20Refinancing%20101",
+    "description": "When and why to refinance your mortgage.",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "129130",
+    "title": "Setting up an Emergency Fund",
+    "url": "https://letmegooglethat.com/?q=Setting%20up%20an%20Emergency%20Fund",
+    "description": "Why you need an emergency fund and how to build it.",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "131132",
+    "title": "Understanding Index Funds",
+    "url": "https://letmegooglethat.com/?q=Understanding%20Index%20Funds",
+    "description": "An introduction to passive investing with index funds.",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "133134",
+    "title": "Financial Planning for Seniors",
+    "url": "https://letmegooglethat.com/?q=Financial%20Planning%20for%20Seniors",
+    "description": "Tailoring financial plans for the golden years.",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "135136",
+    "title": "Investing in Gold and Silver",
+    "url": "https://letmegooglethat.com/?q=Investing%20in%20Gold%20and%20Silver",
+    "description": "The pros and cons of precious metal investments.",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "137138",
+    "title": "Principles of Value Investing",
+    "url": "https://letmegooglethat.com/?q=Principles%20of%20Value%20Investing",
+    "description": "A strategy focusing on undervalued assets.",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "139140",
+    "title": "Achieving Financial Independence",
+    "url": "https://letmegooglethat.com/?q=Achieving%20Financial%20Independence",
+    "description": "Steps to become financially self-sufficient.",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "141142",
+    "title": "Navigating Bankruptcy",
+    "url": "https://letmegooglethat.com/?q=Navigating%20Bankruptcy",
+    "description": "What to expect when declaring bankruptcy and how to recover.",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "143144",
+    "title": "Basics of Crowdfunding",
+    "url": "https://letmegooglethat.com/?q=Basics%20of%20Crowdfunding",
+    "description": "Leveraging the power of collective investment.",
+    "category": "BLOG_POSTS"
+  },
+  {
+    "id": "145146",
+    "title": "Tax Saving Strategies",
+    "url": "https://letmegooglethat.com/?q=Tax%20Saving%20Strategies",
+    "description": "Maximizing deductions and minimizing tax liabilities.",
+    "category": "VIDEOS"
+  },
+  {
+    "id": "147148",
+    "title": "Mobile Banking Safety Tips",
+    "url": "https://letmegooglethat.com/?q=Mobile%20Banking%20Safety%20Tips",
+    "description": "Ensuring secure financial transactions on mobile devices.",
+    "category": "PLAYLISTS"
+  },
+  {
+    "id": "149150",
+    "title": "Choosing the Right Financial Advisor",
+    "url": "https://letmegooglethat.com/?q=Choosing%20the%20Right%20Financial%20Advisor",
+    "description": "Criteria to consider when hiring a financial professional.",
+    "category": "BLOG_POSTS"
+  }
+]
