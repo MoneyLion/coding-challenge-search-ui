@@ -8,12 +8,10 @@ is targeted towards mid to senior level engineers.
 
 1. Clone this repository to your local machine
 2. Create a new private repository on GitHub so others can't copy your work
-3. Add `jeromedane` as a viewer
-4. Push your local clone up to your private repository while preserving history
-5. Create a simple UI that meets the requirements below
-6. Make your changes in commits on a `dev` branch
-7. Create a pull request to merge `dev` into `main` when you're done for review
-
+3. Push your local clone up to your private repository while preserving history
+4. Create a simple UI that meets the requirements below
+5. Add `jeromedane` as a viewer
+ 
 ### Additional Notes
 
 * Use any libraries you like, keeping performance and bundle size in mind
