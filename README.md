@@ -32,8 +32,8 @@ browser. The page will reload if you make edits.
 * The API server is run on port `3001` while the React UI is run on port `3000`
 * Your UI can call `/api/data?search=[some-query]` directly since 
 the request will be proxied to `http://localhost/api/data?...`
-* You will need access the API on port `3001` if you're testing the
-API directly from outside your application (e.g. http://localhost:3001/api/data?search=credit)
+* You will to need access the API on port `3001` if you're testing it directly 
+  from outside your application (e.g. http://localhost:3001/api/data?search=credit)
 
 
 ## The Problem
