@@ -10,7 +10,6 @@ is targeted towards mid to senior level engineers.
 2. Create a new private repository on GitHub so others can't copy your work
 3. Push your local clone up to your private repository while preserving history
 4. Create a simple UI that meets the requirements below
-5. Add `jeromedane` as a viewer
  
 ### Additional Notes
 
