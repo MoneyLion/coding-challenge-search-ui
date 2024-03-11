@@ -79,16 +79,16 @@ Scenario: Search results shall show result title and description
 ```
 
 ```
-Scenario: Clicking a search result title shall open its URLs in a new tab
+Scenario: Clicking a search result shall open its URLs in a new tab
   Given search results are displayed
-  When a user clicks the title of a search result item
+  When search result is clicked
   Then the URL of the search result is opened in a new tab
 ```
 
 ```
 Scenario: Search results shall be marked as their content type
   Given search results are displayed
-  Then each result is clearly marked as a video, playlist, or blog post
+  Then each result is clearly marked for the end user as a video, a playlist, or a blog post in a readable way
 ```
 
 ```
