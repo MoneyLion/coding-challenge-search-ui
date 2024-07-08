@@ -8,7 +8,7 @@ is targeted towards mid to senior level engineers.
 
 1. Clone this repository to your local machine
 2. Create a simple UI that meets the requirements below
-4. Compress your work into a .zip and email it back to us for review.
+4. Compress your work into a .zip file that includes your name and email it back to us for review.
  
 ### Additional Notes
 
