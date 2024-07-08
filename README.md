@@ -7,9 +7,8 @@ is targeted towards mid to senior level engineers.
 ## Instructions
 
 1. Clone this repository to your local machine
-2. Create a new private repository on GitHub so others can't copy your work
-3. Push your local clone up to your private repository while preserving history
-4. Create a simple UI that meets the requirements below
+2. Create a simple UI that meets the requirements below
+4. Compress your work into a .zip and email it back to us for review.
  
 ### Additional Notes
 
