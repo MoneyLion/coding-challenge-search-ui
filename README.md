@@ -96,3 +96,5 @@ Scenario: The user shall be informed if no search results match their query
   When there are no results matching their search query
   Then the message "There are no results matching your query." is displayed
 ```
+
+test
