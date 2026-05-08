@@ -1,0 +1,23 @@
+name: Coverage
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  coverage:
+    uses: MoneyLion/actions/.github/workflows/run-coverage.yaml@main
+    with:
+      language: javascript
+      # CRA's react-scripts test wraps Jest. CI=true + --watchAll=false stop
+      # the interactive watcher; --coverageReporters=json-summary writes
+      # coverage/coverage-summary.json which the coverage-report action consumes.
+      test-command: CI=true npx react-scripts test --watchAll=false --coverage --coverageReporters=json-summary
+      coverage-gate-mode: soft
+    secrets: inherit
