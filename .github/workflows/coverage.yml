@@ -11,5 +11,5 @@ jobs:
     uses: MoneyLion/actions/.github/workflows/run-coverage.yaml@main
     with:
       language: javascript
-      test-command: CI=true npx react-scripts test --watchAll=false --coverage --coverageReporters=json-summary
+      test-command: "CI=true npx react-scripts test --watchAll=false --coverage --coverageReporters=json-summary"
     secrets: inherit
